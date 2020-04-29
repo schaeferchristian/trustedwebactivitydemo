@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrustedWebActivityDemo</string>
+    <string name="sart_trusted_web_activity_button_text">Sart Trusted Web Activity</string>
+</resources>

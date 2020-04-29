@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">TrustedWebActivityDemo</string>
     <string name="sart_trusted_web_activity_button_text">Sart Trusted Web Activity</string>
+
+    <string name="asset_statements">
+                [{
+            \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+            \"target\": {
+                \"namespace\": \"web\",
+                \"site\": \"https://schaeferchristian.github.io/trustedwebactivitydemo/\"}
+        }
+        ]
+    </string>
 </resources>

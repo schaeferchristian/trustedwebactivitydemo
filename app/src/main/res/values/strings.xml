@@ -7,7 +7,7 @@
             \"relation\": [\"delegate_permission/common.handle_all_urls\"],
             \"target\": {
                 \"namespace\": \"web\",
-                \"site\": \"https://schaeferchristian.github.io/trustedwebactivitydemo/\"}
+                \"site\": \"https://schaeferchristian.github.io\"}
         }
         ]
     </string>

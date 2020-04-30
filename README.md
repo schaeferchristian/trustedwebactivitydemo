@@ -8,7 +8,7 @@
 
 [Github-Page](https://schaeferchristian.github.io/trustedwebactivitydemo)
 
-#Helpful Resources
+#### Helpful Resources
 - https://developer.android.com/studio/write/app-link-indexing
 - https://developers.google.com/web/android/trusted-web-activity
 - https://developers.google.com/web/android/trusted-web-activity/integration-guide

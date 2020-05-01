@@ -1,7 +1,7 @@
 ## Trying out Trusted Web Activities on Android 
 
 
-[Launch Android Activity](https://schaeferchristian.github.io/trustedwebactivitydemo/handleOnWebOrInApp/greetingsFromWeb)
+[Launch Android Activity](https://schaeferchristian.github.io/trustedwebactivitydemo/handleOnWebOrInApp?message=greetingsFromWeb&source=gitpage&param3=500)
 
 
 

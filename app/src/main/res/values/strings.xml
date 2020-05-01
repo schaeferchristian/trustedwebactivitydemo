@@ -11,4 +11,7 @@
         }
         ]
     </string>
+    <string name="messageLabelTVText">Message:</string>
+    <string name="sourceLabelTVText">Source:</string>
+    <string name="param3LabelTVText">Param3:</string>
 </resources>

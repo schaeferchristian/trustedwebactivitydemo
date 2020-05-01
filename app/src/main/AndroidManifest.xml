@@ -11,8 +11,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".LaunchFromWebActivity">
-
-            <tools:validation testUrl="https://schaeferchristian.github.io/trustedwebactivitydemo/handleOnWebOrInApp/greetingsFromWeb" />
             <intent-filter android:autoVerify="true">
                 <action android:name="android.intent.action.VIEW" />
 
@@ -22,7 +20,7 @@
                 <data
                     android:scheme="https"
                     android:host="schaeferchristian.github.io"
-                    android:pathPrefix="/trustedwebactivitydemo/handleOnWebOrInApp/" />
+                    android:pathPrefix="/trustedwebactivitydemo/handleOnWebOrInApp" />
             </intent-filter>
         </activity>
 
